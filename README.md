@@ -10,7 +10,7 @@ Telegram File Renamer Bot
 </p>
 </p>
 
-## [How To Deploy](https://youtu.be/7ALYUk-rYMc)
+## [How To Deploy]
 
 
 ## Configs 
@@ -49,10 +49,10 @@ and larger works may be distributed under different terms and without source cod
 ````
 
 ## Support 🇮🇳
-<a href="https://t.me/lntechnical">
+<a href="https://t.me/Movie_Hub_V3">
    <p> Telegram </p>
   </a>
-<a href="https://youtube.com/c/MoTech_YT">
+<a href="https://youtube.com/channel/UCnhETnaVSacZylL876r2bzw">
    <p> YouTube </p>
   </a>
 
